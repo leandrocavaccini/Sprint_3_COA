@@ -23,5 +23,4 @@ O sistema atende a 3 situações operacionais distintas:
 * 3x Resistores (220 $\Omega$)
 * Jumpers para conexão
 
-* Link do projeto:
-https://wokwi.com/projects/475280846199918593
+* Link do projeto: https://wokwi.com/projects/475280846199918593
