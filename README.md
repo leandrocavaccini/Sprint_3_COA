@@ -22,3 +22,6 @@ O sistema atende a 3 situações operacionais distintas:
 * 3x LEDs (Verde, Amarelo e Vermelho)
 * 3x Resistores (220 $\Omega$)
 * Jumpers para conexão
+
+* Link do projeto:
+https://wokwi.com/projects/475280846199918593
